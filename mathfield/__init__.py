@@ -1,6 +1,3 @@
-from mathfield.api import *
-from mathfield.models import *
-from mathfield.widgets import *
 
 
 __title__ = 'django-mathfield'

@@ -7,3 +7,5 @@ dist
 migrations
 node_modules
 __pycache__
+
+.idea/*
